@@ -1,0 +1,10 @@
+streamlit
+flask
+pytorch
+tensorflow
+numpy
+pandas
+scipy
+pytest
+docker
+pymongo
